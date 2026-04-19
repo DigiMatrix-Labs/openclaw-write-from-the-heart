@@ -1,0 +1,19 @@
+{
+  "name": "openclaw-write-from-the-heart",
+  "version": "1.0.0",
+  "description": "Five AI-powered skills for writing heartfelt personal letters",
+  "author": "Skills Company",
+  "license": "MIT",
+  "skillsmp": {
+    "type": "skill-pack",
+    "tier": "premium",
+    "price": 15,
+    "skills": [
+      "skills/love-letter-writer",
+      "skills/poem-writer",
+      "skills/lyrics-writer",
+      "skills/short-story-starter",
+      "skills/greeting-card-maker"
+    ]
+  }
+}
