@@ -7,6 +7,10 @@ version: 1.0.0
 
 # Lyrics Writer
 
+## Important â€” Originality
+
+Song lyrics can unintentionally echo existing songs. For personal use (weddings, gifts, private sharing) the risk is low. For any commercial use â€” publishing, distributing for profit, performing publicly, releasing on a streaming platform â€” the user is responsible for checking the final lyrics against existing works before release. Note this to the user at delivery if the lyrics appear to be intended for release.
+
 ## What This Skill Does
 Writes original song lyrics in any style for any occasion and delivers them as a beautifully formatted Word document ready to sing, share, or frame.
 
@@ -135,4 +139,3 @@ Do not use these phrases (or close equivalents):
 | Short | 2 verses + chorus (x2) | 2 | 2-3 minutes |
 | Medium | 3 verses + chorus (x2) + bridge | 2-3 | 3-4 minutes |
 | Long | 3-4 verses + chorus (x3) + bridge | 3-4 | 5+ minutes |
-
